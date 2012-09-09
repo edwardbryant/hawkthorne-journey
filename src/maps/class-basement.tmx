@@ -32,6 +32,21 @@
    </properties>
   </object>
   <object type="entrance" x="3" y="169" width="40" height="52"/>
+  <object type="info" x="600" y="168" width="24" height="53">
+   <properties>
+    <property name="info" value="$.25 per sip, plus tax"/>
+   </properties>
+  </object>
+  <object type="info" x="123" y="167" width="15" height="53">
+   <properties>
+    <property name="info" value="The extinguisher reads ... | Warning: for comedic use only"/>
+   </properties>
+  </object>
+  <object type="info" x="891" y="167" width="13" height="53">
+   <properties>
+    <property name="info" value="The extinguisher reads ... | WARNING: May cause fires"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup name="floor" width="72" height="12">
   <object x="-9" y="221" width="1740" height="38"/>
