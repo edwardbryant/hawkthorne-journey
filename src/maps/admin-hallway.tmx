@@ -54,7 +54,7 @@
   </object>
   <object type="info" x="216" y="217" width="24" height="55">
    <properties>
-    <property name="info" value="$.25 per sip, with a 2 drink minimum "/>
+    <property name="info" value="$.25 per sip, 2 drink minimum"/>
    </properties>
   </object>
   <object type="info" x="943" y="192" width="36" height="78">
@@ -64,7 +64,7 @@
   </object>
   <object type="info" x="169" y="216" width="16" height="57">
    <properties>
-    <property name="info" value="the extinguisher reads ... | WARNING CONTENTS HIGHLY FLAMMABLE"/>
+    <property name="info" value="the extinguisher reads ... | WARNING: Contents Highly Flammable"/>
    </properties>
   </object>
   <object type="info" x="1014" y="208" width="38" height="64">
