@@ -39,12 +39,12 @@
   </object>
   <object type="info" x="123" y="167" width="15" height="53">
    <properties>
-    <property name="info" value="The extinguisher reads ... | Warning: for comedic use only"/>
+    <property name="info" value="The extinguisher reads ... | WARNING: For Comedic Use Only"/>
    </properties>
   </object>
   <object type="info" x="891" y="167" width="13" height="53">
    <properties>
-    <property name="info" value="The extinguisher reads ... | WARNING: May cause fires"/>
+    <property name="info" value="The extinguisher reads ... | WARNING: May Cause Fire"/>
    </properties>
   </object>
  </objectgroup>

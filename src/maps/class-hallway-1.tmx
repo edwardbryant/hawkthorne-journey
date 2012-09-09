@@ -75,7 +75,7 @@
   </object>
   <object type="info" x="77" y="216" width="12" height="56">
    <properties>
-    <property name="info" value="the extinguisher reads ... | FOR ENTERTAINMENT PURPOSES ONLY"/>
+    <property name="info" value="the extinguisher reads ... | WARNING: For Entertainment Purposes Only"/>
    </properties>
   </object>
  </objectgroup>
